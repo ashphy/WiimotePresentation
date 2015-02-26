@@ -24,3 +24,6 @@ Specified in seconds is possible.
 | 1+2 | Exit Presentation |
 | + | 10% Expansion |
 | + | 10% Reduction |
+
+## Reviews
+- [窓の杜 - 【REVIEW】Wiiリモコンで「PowerPoint」を操作「Wiiリモコンで楽々プレゼンテーション」](http://www.forest.impress.co.jp/docs/review/20091008_320217.html)
