@@ -19,7 +19,6 @@ Specified in seconds is possible.
 | ← | Show Previous Slide |
 | → | Show Next Slide |
 | A | Show Next Slide |
-| A | Show Next Slide |
 | Home | Show Slide List |
 | 1+2 | Exit Presentation |
 | + | 10% Expansion |
